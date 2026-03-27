@@ -5,6 +5,9 @@ description: "This tutorial shows you how to create a collection in the Digital 
 staff:
     - name: Nick Field
       link: https://library.utoronto.ca/staff/nick-field 
+maintainer:
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field 
 created_date: 2022-03-10
 permalink: "/"  #! Remove this if not the homepage
 ---
